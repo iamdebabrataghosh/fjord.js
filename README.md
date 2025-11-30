@@ -461,34 +461,6 @@ Breakdown:
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-### Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run tests
-npm test
-
-# Watch mode
-npm run test:watch
-
-# Build for production
-npm run build:prod
-
-# Type checking
-npm run type-check
-
-# Linting
-npm run lint
-```
-
----
-
 ## 📄 License
 
 MIT © 2024 - See [LICENSE](LICENSE) file for details
