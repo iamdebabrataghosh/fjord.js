@@ -505,18 +505,6 @@ Inspired by:
 
 ---
 
-## 📧 Support
-
-- 📖 [Documentation](https://fjord-js.dev)
-- 🐛 [Issues](https://github.com/yourusername/fjord.js/issues)
-- 💬 [Discussions](https://github.com/yourusername/fjord.js/discussions)
-
----
-
-<div align="center">
-
 **Made with 💧 by developers who love clean, concurrent code**
 
 [⭐ Star us on GitHub](https://github.com/yourusername/fjord.js) | [📦 View on npm](https://www.npmjs.com/package/fjord.js)
-
-</div>
